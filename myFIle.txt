@@ -1,8 +1,12 @@
-Tuesday, 0606 29, 2018, 1:11:01 tt | --Pr | INFO | 
-Tuesday, 0606 29, 2018, 1:11:01 tt | --Pr | INFO | firstMessage
-Tuesday, 0606 29, 2018, 1:11:01 tt | --Pr | INFO | secondMessage
+Wednesday, 1818 35, 2018, 10:11:07 tt | --Pr | INFO | 
+Wednesday, 1818 35, 2018, 10:11:07 tt | --Pr | INFO | firstMessage
+Wednesday, 1818 35, 2018, 10:11:07 tt | --Pr | INFO | secondMessage
 
-Tuesday, 0606 27, 2018, 1:11:41 tt | --Pr | INFO | 
-Tuesday, 0606 27, 2018, 1:11:41 tt | --Pr | INFO | firstMessage
-Tuesday, 0606 27, 2018, 1:11:41 tt | --Pr | INFO | secondMessage
+We, 20 35, 2018, 10:11:22 tt | --Pr | INFO | 
+We, 20 35, 2018, 10:11:22 tt | --Pr | INFO | firstMessage
+We, 20 35, 2018, 10:11:22 tt | --Pr | INFO | secondMessage
+
+Wednesday, 21 35, 2018, 10:11:25 tt | --Pr | INFO | 
+Wednesday, 21 35, 2018, 10:11:25 tt | --Pr | INFO | firstMessage
+Wednesday, 21 35, 2018, 10:11:25 tt | --Pr | INFO | secondMessage
 

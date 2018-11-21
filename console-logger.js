@@ -10,7 +10,7 @@ const consoleLog = {
 
 class ConsoleLogger extends Logger{
 
-    constructor(prefix='', level='LOG', dateFormat="dddd, mmmm dS, YYYY, h:MM:ss TT"){
+    constructor(prefix='', level='LOG', dateFormat="dddd, mm dS, YYYY, h:MM:ss TT"){
         super(prefix, level, dateFormat);
     }
 

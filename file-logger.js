@@ -3,7 +3,7 @@ const fs = require('fs');
 
 class FileLogger extends Logger{
 
-    constructor(file="defaultFile.txt", prefix='PR', level="LOG", dateFormat="dddd, mmmm dS, YYYY, h:MM:ss tt"){
+    constructor(file="defaultFile.txt", prefix='PR', level="LOG", dateFormat="dddd, mm dS, YYYY, h:MM:ss tt"){
         super(prefix, level, dateFormat);
         this.file = file;
     }
